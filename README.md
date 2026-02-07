@@ -30,6 +30,7 @@
     </a>
     &nbsp;&nbsp;
     <p align="center">
+      <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-marzia.esempio@gmail.com-a9d2ff?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
 </p>
 
