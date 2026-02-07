@@ -2,7 +2,7 @@
 
   # Hi there, I'm Marzia! 👋
 
-  ### 🎓 $\color{#d291e4}\text{Computer Engineering \& AI Student}$
+  ### 🎓 $\color{#d291e4}\text{Computer Engineering and AI Student}$
 
   <p>
     Welcome to my GitHub profile! I'm an undergraduate student passionate about <b>Artificial Intelligence</b> and <b>Software Development</b>.
@@ -25,7 +25,7 @@
   ### $\color{#d291e4}\text{GitHub Stats}$ 📊
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=DevMarzia&show_icons=true&bg_color=2b303b&title_color=d291e4&text_color=c0c5ce&icon_color=5fb3b3&hide_border=true&count_private=true" alt="DevMarzia's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DevMarzia&show_icons=true&bg_color=2b303b&title_color=d291e4&text_color=c0c5ce&icon_color=5fb3b3&hide_border=true" alt="DevMarzia's GitHub Stats" />
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMarzia&layout=compact&bg_color=2b303b&title_color=d291e4&text_color=c0c5ce&icon_color=5fb3b3&hide_border=true" alt="Top Langs" />
   </p>
