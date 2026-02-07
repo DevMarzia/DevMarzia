@@ -2,7 +2,6 @@
 
   # $\Huge \color{ #f06292 } \text{Hi there, I'm Marzia!}$
   
-  <br>
   ## $\color{ #a9d2ff}\text{Computer Engineering and AI Student}$ 🎓
 
   <p>
