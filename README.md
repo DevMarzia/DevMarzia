@@ -24,12 +24,10 @@
 
   ---
 
-  ### $\color{#a9d2ff}\text{GitHub Stats}$ 📊
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=DevMarzia&show_icons=true&bg_color=2b303b&title_color=59CBE8&text_color=c0c5ce&icon_color=d291e4&hide_border=true&v=clean" alt="DevMarzia's GitHub Stats" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMarzia&layout=compact&bg_color=2b303b&title_color=59CBE8&text_color=c0c5ce&icon_color=d291e4&hide_border=true&v=clean" alt="Top Langs" />
-  </p>
+  ### $\color{#a9d2ff}\text{Words of Wisdom}$ 💬
+  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
+</p>
 
 </div>
