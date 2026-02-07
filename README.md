@@ -30,12 +30,8 @@
     </a>
     &nbsp;&nbsp;
     <p align="center">
-  <a href="mailto:devmars.mb@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-MARZIA.ESEMPIO%40GMAIL.COM-a9d2ff?style=for-the-    badge&logo=gmail&logoColor=black" alt="Gmail" />
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-marzia.esempio@gmail.com-a9d2ff?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
 </p>
-
- 
 
 ---
 
