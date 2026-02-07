@@ -3,7 +3,6 @@
   # $\Huge \color{ #f06292 } \text{Hi there, I'm Marzia!}$
   
   <br>
-
   ## $\color{ #a9d2ff}\text{Computer Engineering and AI Student}$ 🎓
 
   <p>
@@ -27,9 +26,9 @@
   ## $\color{#a9d2ff}\text{GitHub Stats}$ 📊
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=DevMarzia&show_icons=true&bg_color=2b303b&title_color=59CBE8&text_color=c0c5ce&icon_color=d291e4&hide_border=true" alt="DevMarzia's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DevMarzia&show_icons=true&bg_color=2b303b&title_color=59CBE8&text_color=c0c5ce&icon_color=d291e4&hide_border=true&v=clean" alt="DevMarzia's GitHub Stats" />
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMarzia&layout=compact&bg_color=2b303b&title_color=59CBE8&text_color=c0c5ce&icon_color=d291e4&hide_border=true" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMarzia&layout=compact&bg_color=2b303b&title_color=59CBE8&text_color=c0c5ce&icon_color=d291e4&hide_border=true&v=clean" alt="Top Langs" />
   </p>
 
 </div>
