@@ -39,7 +39,7 @@
   ### $\color{ #a9d2ff }\text{Words of Wisdom}$ 💬
   
   <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_gradient=f06292,a9d2ff&quote_color=ffffff&author_color=eeeeee&hide_border=true" alt="Dev Quotes" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=a9d2ff&quote_color=f06292&author_color=ffffff&hide_border=true" alt="Dev Quotes" />
   </p>
 
 </div>
