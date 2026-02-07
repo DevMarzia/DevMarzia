@@ -25,11 +25,11 @@
   ### $\color{#a9d2ff}\text{Let's Connect!}$ 🤝
   
   <p>
-    <a href="https://www.linkedin.com/in/marzia-bonsegna/" target="_blank">
+    <a href="https://www.linkedin.com/in/marzia-bonsegna/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-%23a9d2ff.svg?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
     </a>
     &nbsp;&nbsp;
-    <a href="mailto:devmars.mb@gmail.com" target="_blank">
+    <a href="mailto:devmars.mb@gmail.com" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Gmail-%23a9d2ff.svg?style=for-the-badge&logo=gmail&logoColor=grey" alt="Gmail" />
     </a>
   </p>
