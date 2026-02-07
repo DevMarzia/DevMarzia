@@ -36,21 +36,11 @@
 
 ---
 
-### 💬 Words of Wisdom
-
-<br>
-
-<div style="background-color:#161b22; padding:20px; border-radius:10px; max-width:600px;">
-
-<p style="color:white; font-style:italic;">
-“Code is like humor. When you have to explain it, it’s bad.”
-</p>
-
-<p align="right" style="color:#a9d2ff;">
-— Cory House
-</p>
-
-</div>
+ ### $\color{ #a9d2ff }\text{Words of Wisdom}$ 💬
+  
+  <p>
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&bg_color=0d1117&quote_color=ffffff&text_color=ffffff&author_color=a9d2ff&border_radius=10" />
+  </p>
 
 </div>
 
