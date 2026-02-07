@@ -1,6 +1,6 @@
 <div align="center">
 
- ### $\boxed{\color{#d291e4} \ \text{Hi there, I'm Marzia!} \ }$
+### $\fcolorbox{#d291e4}{#2b303b}{\Huge \ \color{#d291e4} \textbf{Hi there, I'm Marzia!} \ }$
 
   ### 🎓 $\color{#d291e4}\text{Computer Engineering and AI Student}$
 
