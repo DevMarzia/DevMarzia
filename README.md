@@ -40,7 +40,7 @@
  ### $\color{ #a9d2ff }\text{Words of Wisdom}$ 💬
   
  <p align="center">
-  <img src="quote.svg" />
+  <img src="quote.svg" alt="Daily Quote" />
 </p>
 
 
