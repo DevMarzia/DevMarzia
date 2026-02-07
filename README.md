@@ -40,7 +40,8 @@
  ### $\color{ #a9d2ff }\text{Words of Wisdom}$ 💬
   
   <p>
-    <img src="https://readme-quotes-generator.vercel.app/api" />
+  <img src="https://img.shields.io/endpoint?url=https://api.quotable.io/random" />
+
   </p>
 
 </div>
