@@ -40,7 +40,10 @@
  ### $\color{ #a9d2ff }\text{Words of Wisdom}$ 💬
   
   <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=161b22&quote_color=ffffff&text_color=ffffff&author_color=a9d2ff&border_radius=12" />
+    <p align="center">
+  <img src="https://img.shields.io/badge/Daily%20Dev%20Wisdom-Code%20like%20a%20girl%20who%20builds%20the%20future.-161b22?style=for-the-badge&logo=github&logoColor=a9d2ff&labelColor=0d1117&color=161b22" />
+</p>
+
 
   </p>
 
