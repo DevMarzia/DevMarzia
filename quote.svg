@@ -1,10 +1,9 @@
+<svg width="500" height="200" viewBox="0 0 500 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="490" height="190" x="5" y="5" rx="15" fill="#0d1117" stroke="#f06292" stroke-width="3"/>
+  
+  <text x="250" y="70" fill="white" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">"Debugging is like being the detective in a"</text>
+<text x="250" y="95" fill="white" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">"crime movie where you are also the murderer."</text>
 
-<svg width="500" height="200" viewBox="0 0 500 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="498" height="198" x="1" y="1" rx="15" fill="#0d1117" stroke="#f06292" stroke-width="2"/>
-  <foreignObject x="20" y="20" width="460" height="160">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="color: white; font-family: sans-serif; text-align: center; display: flex; flex-direction: column; justify-content: center; height: 100%;">
-      <p style="font-size: 18px; margin: 0;">"Debugging is like being the detective in a crime movie where you are also the murderer."</p>
-      <p style="font-size: 14px; color: #a9d2ff; margin-top: 10px;">- Filipe Fortes</p>
-    </div>
-  </foreignObject>
+  
+  <text x="250" y="130" fill="#a9d2ff" font-family="Arial, sans-serif" font-size="14" font-style="italic" text-anchor="middle">- Filipe Fortes</text>
 </svg>
