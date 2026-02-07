@@ -27,7 +27,7 @@
   ### $\color{ #a9d2ff }\text{Words of Wisdom}$ 💬
   
   <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=2b303b&quote_color=f06292&author_color=a9d2ff&hide_border=true" alt="Dev Quotes" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=transparent&quote_color=f06292&author_color=a9d2ff&hide_border=true" alt="Dev Quotes" />
   </p>
 
   ---
