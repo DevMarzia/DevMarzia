@@ -29,7 +29,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-%23a9d2ff.svg?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
     </a>
     &nbsp;&nbsp;
-    <a href="mailto:devmars.mb@gmail.com" target="_blank" rel="noopener noreferrer">
+    <a href="[mailto:devmars.mb@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Gmail-%23a9d2ff.svg?style=for-the-badge&logo=gmail&logoColor=grey" alt="Gmail" />
     </a>
   </p>
