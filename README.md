@@ -40,7 +40,7 @@
  ### $\color{ #a9d2ff }\text{Words of Wisdom}$ 💬
   
  <p align="center">
-  <img src="https://raw.githubusercontent.com/DevMarzia/DevMarzia/main/quote.svg?v=1" alt="Daily Quote" />
+  <img src="https://raw.githubusercontent.com/DevMarzia/DevMarzia/main/quote.svg?v=2" alt="Daily Quote" />
 </p>
 
 
