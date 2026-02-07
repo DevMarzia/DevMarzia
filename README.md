@@ -1,7 +1,6 @@
 <div align="center">
 
-  # Hi there, I'm Marzia! 👋
-
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=5fb3b3&height=180&text=Hi%20there,%20I'm%20Marzia!&animation=fadeIn&fontColor=ffffff&fontSize=60" width="100%" alt="Hi there, I'm Marzia!">
   ### 🎓 $\color{#d291e4}\text{Computer Engineering and AI Student}$
 
   <p>
