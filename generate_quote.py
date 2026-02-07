@@ -7,9 +7,8 @@ with open('quotes.json', 'r') as f:
 
 quote = random.choice(quotes)
 
-# Crea l'SVG personalizzato (niente più tagli!)
-svg_template = f"""
-<svg width="500" height="200" viewBox="0 0 500 200" fill="none" xmlns="http://www.w3.org/2000/center">
+svg_template = f'''
+<svg width="500" height="200" viewBox="0 0 500 200" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="498" height="198" x="1" y="1" rx="15" fill="#0d1117" stroke="#f06292" stroke-width="2"/>
   <foreignObject x="20" y="20" width="460" height="160">
     <div xmlns="http://www.w3.org/1999/xhtml" style="color: white; font-family: sans-serif; text-align: center; display: flex; flex-direction: column; justify-content: center; height: 100%;">
@@ -18,7 +17,7 @@ svg_template = f"""
     </div>
   </foreignObject>
 </svg>
-"""
+'''
 
 with open('quote.svg', 'w') as f:
     f.write(svg_template)
