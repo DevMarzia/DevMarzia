@@ -14,7 +14,7 @@
 
   ---
 
-  ### $\color{#d1f4fa}\text{My Tech Stack}$ 🛠️
+  ### $\color{#a9d2ff}\text{My Tech Stack}$ 🛠️
 
   <p>
     <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@
 
   ---
 
-  ### $\color{#d1f4fa}\text{GitHub Stats}$ 📊
+  ### $\color{#a9d2ff}\text{GitHub Stats}$ 📊
 
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=DevMarzia&show_icons=true&bg_color=2b303b&title_color=59CBE8&text_color=c0c5ce&icon_color=d291e4&hide_border=true" alt="DevMarzia's GitHub Stats" />
