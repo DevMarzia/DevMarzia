@@ -39,10 +39,10 @@
 
  ### $\color{ #a9d2ff }\text{Words of Wisdom}$ 💬
   
-  <p>
-  <img src="https://img.shields.io/endpoint?url=https://api.quotable.io/random" />
+  <p align="center">
+  <img src="https://img.shields.io/endpoint?url=https://api.quotable.io/random&style=for-the-badge&color=161b22&labelColor=0d1117&label=Quote&logo=quote" />
+</p>
 
-  </p>
 
 </div>
 
