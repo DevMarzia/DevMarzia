@@ -29,11 +29,11 @@
       <img src="https://img.shields.io/badge/LinkedIn-%23a9d2ff.svg?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
     </a>
     &nbsp;&nbsp;
-    ```
+    
 <p align="center">
   <img src="https://img.shields.io/badge/Gmail-marzia.esempio@gmail.com-a9d2ff?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </p>
-  ```
+ 
 
 ---
 
