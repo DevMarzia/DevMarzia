@@ -12,7 +12,7 @@
 
   ---
 
-  ### My Tech Stack 🛠️ 
+  ### 🛠️ My Tech Stack
 
   <p>
     <a href="https://skillicons.dev">
@@ -22,10 +22,10 @@
 
   ---
 
-  ### GitHub Stats 📊 
+  ### 📊 GitHub Stats
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=DevMarzia&show_icons=true&bg_color=2b303b&title_color=d291e4&text_color=c0c5ce&icon_color=5fb3b3&hide_border=true&count_private=true" alt="DevMarzia's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DevMarzia&show_icons=true&bg_color=2b303b&title_color=d291e4&text_color=c0c5ce&icon_color=5fb3b3&hide_border=true" alt="DevMarzia's GitHub Stats" />
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMarzia&layout=compact&bg_color=2b303b&title_color=d291e4&text_color=c0c5ce&icon_color=5fb3b3&hide_border=true" alt="Top Langs" />
   </p>
