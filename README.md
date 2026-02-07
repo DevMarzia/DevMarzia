@@ -36,10 +36,11 @@
 
 ---
 
+
  ### $\color{ #a9d2ff }\text{Words of Wisdom}$ 💬
   
   <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&bg_color=0d1117&quote_color=ffffff&text_color=ffffff&author_color=a9d2ff&border_radius=10" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&bg_color=161b22&quote_color=ffffff&text_color=ffffff&author_color=a9d2ff&border_radius=10" />
   </p>
 
 </div>
