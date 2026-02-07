@@ -1,6 +1,6 @@
 <div align="center">
 
-  # $\Huge \color{#dcd6f7 } \text{Hi there, I'm Marzia!}$
+  # $\Huge \color{ #e01171} \text{Hi there, I'm Marzia!}$
   
   <br>
 
