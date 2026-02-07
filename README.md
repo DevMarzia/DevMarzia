@@ -27,7 +27,7 @@
   ### $\color{#f06292}\text{Words of Wisdom}$ 💬
   
   <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=#a9d2ff" alt="Dev Quotes" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=2b303b&quote_color=f06292&author_color=a9d2ff&hide_border=true" alt="Dev Quotes" />
   </p>
 
   <br>
@@ -35,11 +35,11 @@
   ### $\color{#a9d2ff}\text{Let's Connect!}$ 🤝
   
   <p>
-    <a href="https://www.linkedin.com/in/marzia-bonsegna-b98a281b7" target="_blank">
+    <a href="https://www.linkedin.com/in/marzia-bonsegna/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%23a9d2ff.svg?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
     </a>
     &nbsp;&nbsp;
-    <a href="mailto:iltuoindirizzo@email.com" target="_blank">
+    <a href="mailto:devmars.mb@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-%23f06292.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
