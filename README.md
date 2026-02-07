@@ -1,10 +1,10 @@
 <div align="center">
 
-  # $\Huge \color{ #d1f4fa} \text{Hi there, I'm Marzia!}$ 🩵
+  # $\Huge \color{#dcd6f7 } \text{Hi there, I'm Marzia!}$
   
   <br>
 
-  ### 🎓 $\color{#dcd6f7}\text{Computer Engineering and AI Student}$
+  ### 🎓 $\color{ #d1f4fa}\text{Computer Engineering and AI Student}$
 
   <p>
     Welcome to my GitHub profile! I'm an undergraduate student passionate about <b>Artificial Intelligence</b> and <b>Software Development</b>.
@@ -14,7 +14,7 @@
 
   ---
 
-  ### $\color{#f4eeff}\text{My Tech Stack}$ 🛠️
+  ### $\color{#d1f4fa}\text{My Tech Stack}$ 🛠️
 
   <p>
     <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@
 
   ---
 
-  ### $\color{#f4eeff}\text{GitHub Stats}$ 📊
+  ### $\color{#d1f4fa}\text{GitHub Stats}$ 📊
 
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=DevMarzia&show_icons=true&bg_color=2b303b&title_color=59CBE8&text_color=c0c5ce&icon_color=d291e4&hide_border=true" alt="DevMarzia's GitHub Stats" />
