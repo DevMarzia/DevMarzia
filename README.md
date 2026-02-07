@@ -22,16 +22,6 @@
     </a>
   </p>
 
- ---
- 
-  ### $\color{ #a9d2ff }\text{Words of Wisdom}$ 💬
-  
-  <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=transparent&quote_color=f06292&author_color=a9d2ff&hide_border=true" alt="Dev Quotes" />
-  </p>
-
-  ---
-
   ### $\color{#a9d2ff}\text{Let's Connect!}$ 🤝
   
   <p>
@@ -44,4 +34,13 @@
     </a>
   </p>
 
+---
+ 
+  ### $\color{ #a9d2ff }\text{Words of Wisdom}$ 💬
+  
+  <p>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=0d1117&quote_color=f06292&author_color=a9d2ff&hide_border=true" alt="Dev Quotes" />
+  </p>
+
 </div>
+
