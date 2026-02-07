@@ -4,7 +4,7 @@
   
   <br>
 
-  ### 🎓 $\color{ #d1f4fa}\text{Computer Engineering and AI Student}$
+  ### 🎓 $\color{ #a9d2ff}\text{Computer Engineering and AI Student}$
 
   <p>
     Welcome to my GitHub profile! I'm an undergraduate student passionate about <b>Artificial Intelligence</b> and <b>Software Development</b>.
