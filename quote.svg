@@ -1,7 +1,6 @@
 <svg width="500" height="200" viewBox="0 0 500 200" xmlns="http://www.w3.org/2000/svg">
   <rect width="490" height="190" x="5" y="5" rx="15" fill="#0d1117" stroke="#f06292" stroke-width="3"/>
-  <text x="250" y="70" fill="white" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">"Humanity is acquiring all the right</text>
-<text x="250" y="95" fill="white" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">technology for all the wrong reasons."</text>
+  <text x="250" y="75" fill="white" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">"Men have become the tools of their tools."</text>
 
-  <text x="250" y="130" fill="#a9d2ff" font-family="Arial, sans-serif" font-size="14" font-style="italic" text-anchor="middle">- Richard Buckminster Fuller</text>
+  <text x="250" y="110" fill="#a9d2ff" font-family="Arial, sans-serif" font-size="14" font-style="italic" text-anchor="middle">- Henry David Thoreau</text>
 </svg>
