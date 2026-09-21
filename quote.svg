@@ -1,7 +1,8 @@
 <svg width="500" height="200" viewBox="0 0 500 200" xmlns="http://www.w3.org/2000/svg">
   <rect width="490" height="190" x="5" y="5" rx="15" fill="#0d1117" stroke="#f06292" stroke-width="3"/>
-  <text x="250" y="70" fill="white" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">"As machines get to be more and more like men,</text>
-<text x="250" y="95" fill="white" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">men will come to be more like machines."</text>
+  <text x="250" y="65" fill="white" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">"The saddest aspect of life right now is that</text>
+<text x="250" y="90" fill="white" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">science gathers knowledge faster than society</text>
+<text x="250" y="115" fill="white" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">gathers wisdom."</text>
 
-  <text x="250" y="130" fill="#a9d2ff" font-family="Arial, sans-serif" font-size="14" font-style="italic" text-anchor="middle">- Joseph Wood Krutch</text>
+  <text x="250" y="150" fill="#a9d2ff" font-family="Arial, sans-serif" font-size="14" font-style="italic" text-anchor="middle">- Isaac Asimov</text>
 </svg>
